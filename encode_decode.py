@@ -19,7 +19,7 @@ def main():
                 encode = encode(password)
                 print('Your password has been encoded and stored!')
             elif choice == 2:
-                print('The encoded password is {encode}, and the original password is {password}.')
+                print(f'The encoded password is {encode}, and the original password is {password}.')
 
 if __name__ == '__main__':
     main()
