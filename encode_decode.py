@@ -1,3 +1,5 @@
+# Kiera was here :DDD
+
 def encode(password): # encode password function
     encode = ''
     for char in password:
